@@ -7,7 +7,3 @@
 - **Monthly Analytics & Budget Alerts**: Category-wise pie chart and automatic alerts at 80% and 100% of your monthly budget.
 - **CSV / Excel Export**: One-tap export of all transactions.
 
-## How to Build APK on GitHub (No PC Setup)
-1. Create a new repository on GitHub.
-2. Upload the contents of this folder (`pubspec.yaml`, `lib/`, `android/`, and `.github/workflows/build_apk.yml`).
-3. Open the **Actions** tab on GitHub -> select **Build Release APK** -> download **CashTrack-Release-APK** once complete.
